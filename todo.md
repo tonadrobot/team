@@ -1,8 +1,5 @@
 ## TODO v1.0
 
-- [ ] build basic user registration
-- [ ] connect basic backend
-- [ ] basic referral program
 - [ ] handle back properly
 - [ ] FAQ
 - [ ] contact
@@ -24,3 +21,6 @@
 - [x] setup app
 - [x] build basic backend
 - [x] deploy basic backend
+- [x] build basic user registration
+- [x] connect basic backend
+- [x] basic referral program
