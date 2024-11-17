@@ -2,6 +2,7 @@
 
 - [ ] build basic user registration
 - [ ] connect basic backend
+- [ ] basic referral program
 - [ ] handle back properly
 - [ ] FAQ
 - [ ] contact
