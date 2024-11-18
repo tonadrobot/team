@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] start mining
 - [ ] handle back properly
 - [ ] FAQ
 - [ ] contact
@@ -26,3 +25,5 @@
 - [x] connect basic backend
 - [x] basic referral program
 - [x] tg username issue
+- [x] ref initial
+- [x] start mining
