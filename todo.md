@@ -29,3 +29,4 @@
 - [x] tg username issue
 - [x] ref initial
 - [x] start mining
+- [x] production
