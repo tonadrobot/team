@@ -1,6 +1,7 @@
 ## TODO v1.0
 
 - [ ] tg username issue
+- [ ] start mining
 - [ ] handle back properly
 - [ ] FAQ
 - [ ] contact
