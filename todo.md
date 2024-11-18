@@ -1,5 +1,7 @@
 ## TODO v1.0
 
+- [ ] new TMU
+- [ ] secure referral system
 - [ ] handle back properly
 - [ ] FAQ
 - [ ] contact
