@@ -1,5 +1,6 @@
 ## TODO v1.0
 
+- [ ] tg username issue
 - [ ] handle back properly
 - [ ] FAQ
 - [ ] contact
