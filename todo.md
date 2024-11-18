@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] tg username issue
 - [ ] start mining
 - [ ] handle back properly
 - [ ] FAQ
@@ -26,3 +25,4 @@
 - [x] build basic user registration
 - [x] connect basic backend
 - [x] basic referral program
+- [x] tg username issue
