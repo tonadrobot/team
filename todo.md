@@ -1,7 +1,6 @@
 ## TODO v1.0
 
 - [ ] new TMU
-- [ ] secure referral system
 - [ ] handle back properly
 - [ ] FAQ
 - [ ] contact
@@ -31,3 +30,4 @@
 - [x] start mining
 - [x] production
 - [x] save name too
+- [x] secure referral system
