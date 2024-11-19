@@ -1,5 +1,6 @@
 ## TODO v1.0
 
+- [ ] channel subscription check
 - [ ] new TMU
 - [ ] handle back properly
 - [ ] FAQ
