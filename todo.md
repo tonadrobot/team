@@ -1,5 +1,7 @@
 ## TODO v1.0
 
+- [ ] split payment
+- [ ] withdraw
 - [ ] channel subscription check
 - [ ] handle back properly
 - [ ] FAQ
