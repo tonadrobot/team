@@ -3,7 +3,6 @@
 - [ ] new TMU
 - [ ] secure referral system
 - [ ] handle back properly
-- [ ] save name too
 - [ ] FAQ
 - [ ] contact
 - [ ] testing
@@ -31,3 +30,4 @@
 - [x] ref initial
 - [x] start mining
 - [x] production
+- [x] save name too
