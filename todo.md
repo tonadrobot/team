@@ -1,7 +1,6 @@
 ## TODO v1.0
 
 - [ ] channel subscription check
-- [ ] new TMU
 - [ ] handle back properly
 - [ ] FAQ
 - [ ] contact
@@ -32,3 +31,4 @@
 - [x] production
 - [x] save name too
 - [x] secure referral system
+- [x] new TMU
