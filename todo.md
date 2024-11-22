@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] hijack channel
 - [ ] channel subscription check
 - [ ] minimum withdraw
 - [ ] minimum mint
@@ -40,3 +39,4 @@
 - [x] split payment
 - [x] more stats
 - [x] handle back properly
+- [x] hijack channel
