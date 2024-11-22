@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] split payment
 - [ ] withdraw
 - [ ] channel subscription check
 - [ ] handle back properly
@@ -36,3 +35,4 @@
 - [x] new TMU
 - [x] basic stats command
 - [x] basic rankings command
+- [x] split payment
