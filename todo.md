@@ -35,3 +35,4 @@
 - [x] secure referral system
 - [x] new TMU
 - [x] basic stats command
+- [x] basic rankings command
