@@ -1,10 +1,10 @@
 ## TODO v1.0
 
+- [ ] handle back properly
+- [ ] channel subscription check
 - [ ] minimum withdraw
 - [ ] minimum mint
 - [ ] withdraw
-- [ ] channel subscription check
-- [ ] handle back properly
 - [ ] FAQ
 - [ ] contact
 - [ ] testing
