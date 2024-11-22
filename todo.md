@@ -1,5 +1,6 @@
 ## TODO v1.0
 
+- [ ] hijack channel
 - [ ] channel subscription check
 - [ ] minimum withdraw
 - [ ] minimum mint
