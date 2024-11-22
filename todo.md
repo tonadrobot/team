@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] handle back properly
 - [ ] channel subscription check
 - [ ] minimum withdraw
 - [ ] minimum mint
@@ -39,3 +38,4 @@
 - [x] basic rankings command
 - [x] split payment
 - [x] more stats
+- [x] handle back properly
