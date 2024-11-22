@@ -1,8 +1,8 @@
 ## TODO v1.0
 
+- [ ] withdraw
 - [ ] minimum withdraw
 - [ ] minimum mint
-- [ ] withdraw
 - [ ] FAQ
 - [ ] testing
 - [ ] texts
