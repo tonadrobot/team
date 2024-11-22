@@ -38,3 +38,4 @@
 - [x] basic stats command
 - [x] basic rankings command
 - [x] split payment
+- [x] more stats
