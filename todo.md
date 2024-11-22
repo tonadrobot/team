@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] stats command
 - [ ] split payment
 - [ ] withdraw
 - [ ] channel subscription check
@@ -35,3 +34,4 @@
 - [x] save name too
 - [x] secure referral system
 - [x] new TMU
+- [x] basic stats command
