@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] channel subscription check
 - [ ] minimum withdraw
 - [ ] minimum mint
 - [ ] withdraw
@@ -40,3 +39,4 @@
 - [x] handle back properly
 - [x] hijack channel
 - [x] contact
+- [x] channel subscription check
