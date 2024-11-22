@@ -5,7 +5,6 @@
 - [ ] minimum mint
 - [ ] withdraw
 - [ ] FAQ
-- [ ] contact
 - [ ] testing
 - [ ] texts
 
@@ -40,3 +39,4 @@
 - [x] more stats
 - [x] handle back properly
 - [x] hijack channel
+- [x] contact
