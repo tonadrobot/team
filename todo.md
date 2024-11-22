@@ -1,5 +1,6 @@
 ## TODO v1.0
 
+- [ ] stats command
 - [ ] split payment
 - [ ] withdraw
 - [ ] channel subscription check
