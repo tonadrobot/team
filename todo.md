@@ -1,7 +1,5 @@
 ## TODO v1.0
 
-- [ ] withdraw
-- [ ] minimum withdraw
 - [ ] minimum mint
 - [ ] FAQ
 - [ ] testing
@@ -40,3 +38,6 @@
 - [x] hijack channel
 - [x] contact
 - [x] channel subscription check
+- [x] settings screen
+- [x] withdraw
+- [x] minimum withdraw
