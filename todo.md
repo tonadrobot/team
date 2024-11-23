@@ -9,7 +9,7 @@
 ## BACKLOG
 
 - [ ] simple amm
-- [ ] daily code
+- [ ] daily cycle
 - [ ] test env
 - [ ] automatic daily compounding
 - [ ] twitter share
