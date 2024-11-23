@@ -1,5 +1,6 @@
 ## TODO v1.0
 
+- [ ] fix navigation
 - [ ] minimum mint
 - [ ] FAQ
 - [ ] testing
