@@ -8,6 +8,7 @@
 
 ## BACKLOG
 
+- [ ] amm
 - [ ] test env
 - [ ] automatic daily compounding
 - [ ] twitter share
