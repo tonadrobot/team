@@ -44,3 +44,4 @@
 - [x] settings screen
 - [x] withdraw
 - [x] minimum withdraw
+- [x] live withdraw screen
