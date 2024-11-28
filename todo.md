@@ -1,7 +1,7 @@
 ## TODO v1.0
 
-- [ ] fix navigation
 - [ ] minimum mint
+- [ ] fix navigation
 - [ ] FAQ
 - [ ] testing
 - [ ] texts
