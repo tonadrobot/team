@@ -46,3 +46,4 @@
 - [x] minimum withdraw
 - [x] live withdraw screen
 - [x] check if member of the group
+- [x] fix panic
