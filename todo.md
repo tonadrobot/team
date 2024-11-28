@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] minimum mint
 - [ ] fix navigation
 - [ ] FAQ
 - [ ] testing
@@ -47,3 +46,4 @@
 - [x] live withdraw screen
 - [x] check if member of the group
 - [x] fix panic
+- [x] minimum mint
