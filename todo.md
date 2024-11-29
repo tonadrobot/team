@@ -15,8 +15,9 @@
 - [ ] secure everything more
 - [ ] test env
 - [ ] automatic daily compounding
-- [ ] twitter share
+- [ ] twitter share (tasks)
 - [ ] website
+- [ ] TMU token
 
 ## DONE v1.0
 
