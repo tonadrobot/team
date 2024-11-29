@@ -1,6 +1,7 @@
 ## TODO v1.0
 
 - [ ] fix navigation
+- [ ] make UI more consistent
 - [ ] FAQ
 - [ ] testing
 - [ ] texts
