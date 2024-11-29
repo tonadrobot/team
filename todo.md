@@ -49,3 +49,4 @@
 - [x] fix panic
 - [x] minimum mint
 - [x] new bot notification
+- [x] update group
