@@ -2,6 +2,7 @@
 
 - [ ] fix navigation
 - [ ] make UI more consistent
+- [ ] better relative UI
 - [ ] FAQ
 - [ ] testing
 - [ ] texts
