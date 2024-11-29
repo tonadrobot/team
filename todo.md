@@ -50,3 +50,4 @@
 - [x] minimum mint
 - [x] new bot notification
 - [x] update group
+- [x] web stats
