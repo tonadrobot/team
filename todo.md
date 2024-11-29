@@ -51,6 +51,6 @@
 - [x] check if member of the group
 - [x] fix panic
 - [x] minimum mint
-- [x] new bot notification
+- [x] new user notification
 - [x] update group
 - [x] web stats
