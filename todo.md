@@ -10,6 +10,7 @@
 
 - [ ] simple amm
 - [ ] daily cycle
+- [ ] premium package
 - [ ] test env
 - [ ] automatic daily compounding
 - [ ] twitter share
