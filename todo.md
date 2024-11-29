@@ -11,6 +11,7 @@
 - [ ] simple amm
 - [ ] daily cycle
 - [ ] premium package
+- [ ] secure everything more
 - [ ] test env
 - [ ] automatic daily compounding
 - [ ] twitter share
