@@ -1,5 +1,6 @@
 ## TODO v1.0
 
+- [ ] setup new bot
 - [ ] fix navigation
 - [ ] make UI more consistent
 - [ ] better relative UI
