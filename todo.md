@@ -20,6 +20,7 @@
 - [ ] twitter share (tasks)
 - [ ] website
 - [ ] TMU token
+- [ ] TON Crush game
 
 ## DONE v1.0
 
