@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] withdraw fee info
 - [ ] new bot notification
 - [ ] fix navigation
 - [ ] daily cycle
@@ -65,3 +64,4 @@
 - [x] re-branding descriptions and names
 - [x] update bot in app
 - [x] update bot on server
+- [x] withdraw fee info
