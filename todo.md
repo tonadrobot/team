@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] old app redirect
 - [ ] send new bot notification
 - [ ] fix navigation
 - [ ] daily cycle
@@ -67,3 +66,4 @@
 - [x] update bot on server
 - [x] withdraw fee info
 - [x] build new bot notification
+- [x] old app redirect
