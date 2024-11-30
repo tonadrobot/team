@@ -1,7 +1,5 @@
 ## TODO v1.0
 
-- [ ] update bot in app
-- [ ] update bot on server
 - [ ] fix navigation
 - [ ] make UI more consistent
 - [ ] better relative UI sizes
@@ -61,3 +59,5 @@
 - [x] create private group for city leaders
 - [x] setup new bot
 - [x] re-branding descriptions and names
+- [x] update bot in app
+- [x] update bot on server
