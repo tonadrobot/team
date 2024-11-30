@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] setup new bot
 - [ ] fix navigation
 - [ ] make UI more consistent
 - [ ] better relative UI sizes
@@ -58,3 +57,4 @@
 - [x] web stats
 - [x] ton city rebranding
 - [x] create private group for city leaders
+- [x] setup new bot
