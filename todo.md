@@ -1,5 +1,6 @@
 ## TODO v1.0
 
+- [ ] withdraw fee info
 - [ ] new bot notification
 - [ ] fix navigation
 - [ ] daily cycle
