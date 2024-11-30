@@ -1,5 +1,6 @@
 ## TODO v1.0
 
+- [ ] old app redirect
 - [ ] new bot notification
 - [ ] fix navigation
 - [ ] daily cycle
