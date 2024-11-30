@@ -3,7 +3,7 @@
 - [ ] setup new bot
 - [ ] fix navigation
 - [ ] make UI more consistent
-- [ ] better relative UI
+- [ ] better relative UI sizes
 - [ ] FAQ
 - [ ] testing
 - [ ] texts
@@ -56,3 +56,5 @@
 - [x] new user notification
 - [x] update group
 - [x] web stats
+- [x] ton city rebranding
+- [x] create private group for city leaders
