@@ -3,7 +3,7 @@
 - [ ] new bot notification
 - [ ] fix navigation
 - [ ] daily cycle
-- [ ] automatic daily compounding
+- [ ] automatic compounding
 - [ ] automatic daily mining cycle
 - [ ] premium package
 - [ ] FAQ
