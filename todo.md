@@ -1,5 +1,6 @@
 ## TODO v1.0
 
+- [ ] new bot notification
 - [ ] fix navigation
 - [ ] make UI more consistent
 - [ ] better relative UI sizes
