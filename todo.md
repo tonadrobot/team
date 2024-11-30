@@ -2,20 +2,21 @@
 
 - [ ] new bot notification
 - [ ] fix navigation
-- [ ] make UI more consistent
-- [ ] better relative UI sizes
+- [ ] daily cycle
+- [ ] automatic daily compounding
+- [ ] automatic daily mining cycle
+- [ ] premium package
 - [ ] FAQ
 - [ ] testing
 - [ ] texts
 
 ## BACKLOG
 
+- [ ] make UI more consistent
+- [ ] better relative UI sizes
 - [ ] simple amm
-- [ ] daily cycle
-- [ ] premium package
 - [ ] secure everything more
 - [ ] test env
-- [ ] automatic daily compounding
 - [ ] twitter share (tasks)
 - [ ] website
 - [ ] TMU token
