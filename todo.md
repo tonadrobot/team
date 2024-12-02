@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] fix navigation
 - [ ] daily cycle
 - [ ] automatic compounding
 - [ ] automatic daily mining cycle
@@ -67,3 +66,4 @@
 - [x] build new bot notification
 - [x] old app redirect
 - [x] send new bot notification
+- [x] fix navigation
