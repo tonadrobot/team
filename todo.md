@@ -68,3 +68,4 @@
 - [x] send new bot notification
 - [x] fix navigation
 - [x] daily cycle channel message
+- [x] first channel notification
