@@ -67,3 +67,4 @@
 - [x] old app redirect
 - [x] send new bot notification
 - [x] fix navigation
+- [x] daily cycle channel message
