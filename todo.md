@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] send new bot notification
 - [ ] fix navigation
 - [ ] daily cycle
 - [ ] automatic compounding
@@ -67,3 +66,4 @@
 - [x] withdraw fee info
 - [x] build new bot notification
 - [x] old app redirect
+- [x] send new bot notification
