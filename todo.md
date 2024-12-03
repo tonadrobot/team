@@ -1,9 +1,10 @@
 ## TODO v1.0
 
-- [ ] cycle - automatic channel msg
+- [ ] cycle - bot is cycle active
 - [ ] cycle - app not mining
 - [ ] cycle - app restart mining
 - [ ] cycle - bot restart mining
+- [ ] app - mining cycle status
 - [ ] automatic compounding
 - [ ] automatic daily mining cycle
 - [ ] premium package
@@ -11,6 +12,7 @@
 - [ ] testing
 - [ ] texts
 - [ ] speed up stats (preloading)
+- [ ] cycle - automatic channel msg
 
 ## BACKLOG
 
