@@ -71,3 +71,4 @@
 - [x] fix navigation
 - [x] daily cycle channel message
 - [x] first channel notification
+- [x] fix typo in channel notification
