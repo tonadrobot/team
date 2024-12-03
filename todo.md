@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] cycle - app restart mining
 - [ ] app - mining cycle status
 - [ ] automatic compounding
 - [ ] automatic daily mining cycle
@@ -79,3 +78,4 @@
 - [x] cycle - bot is cycle active
 - [x] cycle - bot restart mining
 - [x] cycle - app not mining
+- [x] cycle - app restart mining
