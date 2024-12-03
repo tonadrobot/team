@@ -2,7 +2,6 @@
 
 - [ ] cycle - app not mining
 - [ ] cycle - app restart mining
-- [ ] cycle - bot restart mining
 - [ ] app - mining cycle status
 - [ ] automatic compounding
 - [ ] automatic daily mining cycle
@@ -79,3 +78,4 @@
 - [x] cycle - app already mining
 - [x] cycle - restart notification
 - [x] cycle - bot is cycle active
+- [x] cycle - bot restart mining
