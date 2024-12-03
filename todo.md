@@ -1,5 +1,7 @@
 ## TODO v1.0
 
+- [ ] make group message red
+- [ ] speed up stats (preloading)
 - [ ] daily cycle
 - [ ] automatic compounding
 - [ ] automatic daily mining cycle
