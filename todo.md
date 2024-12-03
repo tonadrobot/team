@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] cycle - bot is cycle active
 - [ ] cycle - app not mining
 - [ ] cycle - app restart mining
 - [ ] cycle - bot restart mining
@@ -79,3 +78,4 @@
 - [x] make group message red
 - [x] cycle - app already mining
 - [x] cycle - restart notification
+- [x] cycle - bot is cycle active
