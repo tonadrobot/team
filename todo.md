@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] speed up stats (preloading)
 - [ ] daily cycle
 - [ ] automatic compounding
 - [ ] automatic daily mining cycle
@@ -8,6 +7,7 @@
 - [ ] FAQ
 - [ ] testing
 - [ ] texts
+- [ ] speed up stats (preloading)
 
 ## BACKLOG
 
