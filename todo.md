@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] make group message red
 - [ ] speed up stats (preloading)
 - [ ] daily cycle
 - [ ] automatic compounding
@@ -72,3 +71,4 @@
 - [x] daily cycle channel message
 - [x] first channel notification
 - [x] fix typo in channel notification
+- [x] make group message red
