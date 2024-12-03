@@ -4,7 +4,6 @@
 - [ ] cycle - app not mining
 - [ ] cycle - app restart mining
 - [ ] cycle - bot restart mining
-- [ ] cycle - restart notification
 - [ ] automatic compounding
 - [ ] automatic daily mining cycle
 - [ ] premium package
@@ -77,3 +76,4 @@
 - [x] fix typo in channel notification
 - [x] make group message red
 - [x] cycle - app already mining
+- [x] cycle - restart notification
