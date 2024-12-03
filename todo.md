@@ -5,6 +5,7 @@
 - [ ] cycle - app restart mining
 - [ ] cycle - bot restart mining
 - [ ] cycle - app already mining
+- [ ] cycle - restart notification
 - [ ] automatic compounding
 - [ ] automatic daily mining cycle
 - [ ] premium package
