@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] navigation issue
 - [ ] app - mining cycle status
 - [ ] automatic compounding
 - [ ] automatic daily mining cycle
@@ -80,3 +79,4 @@
 - [x] cycle - bot restart mining
 - [x] cycle - app not mining
 - [x] cycle - app restart mining
+- [x] navigation issue
