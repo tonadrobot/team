@@ -1,7 +1,6 @@
 ## TODO v1.0
 
 - [ ] two new user notifications bug
-- [ ] restart compound bug
 - [ ] app - referral stats
 - [ ] app - mining cycle status
 - [ ] restart cycle - tmu counter
@@ -85,3 +84,4 @@
 - [x] cycle - app restart mining
 - [x] navigation issue
 - [x] speed up stats (preloading)
+- [x] restart compound bug
