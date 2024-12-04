@@ -3,7 +3,7 @@
 - [ ] app - mining cycle status
 - [ ] automatic compounding
 - [ ] automatic daily mining cycle
-- [ ] premium package
+- [ ] pro package
 - [ ] FAQ
 - [ ] testing
 - [ ] texts
