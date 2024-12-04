@@ -1,6 +1,10 @@
 ## TODO v1.0
 
+- [ ] two new user notifications bug
+- [ ] restart compound bug
+- [ ] app - referral stats
 - [ ] app - mining cycle status
+- [ ] restart cycle - tmu counter
 - [ ] automatic compounding
 - [ ] automatic daily mining cycle
 - [ ] pro package
@@ -11,6 +15,7 @@
 
 ## BACKLOG
 
+- [ ] explain 1% better
 - [ ] make UI more consistent
 - [ ] better relative UI sizes
 - [ ] simple amm
