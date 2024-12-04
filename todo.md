@@ -1,8 +1,8 @@
 ## TODO v1.0
 
+- [ ] restart cycle - tmu counter
 - [ ] app - referral stats
 - [ ] app - mining cycle status
-- [ ] restart cycle - tmu counter
 - [ ] automatic compounding
 - [ ] automatic daily mining cycle
 - [ ] pro package
