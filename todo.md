@@ -7,7 +7,6 @@
 - [ ] FAQ
 - [ ] testing
 - [ ] texts
-- [ ] speed up stats (preloading)
 - [ ] cycle - automatic channel msg
 
 ## BACKLOG
@@ -80,3 +79,4 @@
 - [x] cycle - app not mining
 - [x] cycle - app restart mining
 - [x] navigation issue
+- [x] speed up stats (preloading)
