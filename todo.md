@@ -1,5 +1,6 @@
 ## TODO v1.0
 
+- [ ] count mining cycles
 - [ ] restart cycle - tmu counter
 - [ ] app - referral stats
 - [ ] app - mining cycle status
