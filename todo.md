@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] stats - active miners
 - [ ] restart cycle - tmu counter
 - [ ] app - referral stats
 - [ ] app - mining cycle status
@@ -86,3 +85,4 @@
 - [x] speed up stats (preloading)
 - [x] restart compound bug
 - [x] two new user notifications bug
+- [x] stats - active miners
