@@ -13,6 +13,7 @@
 
 ## BACKLOG
 
+- [ ] withdrawal - comment
 - [ ] explain 1% better
 - [ ] make UI more consistent
 - [ ] better relative UI sizes
