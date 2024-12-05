@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] use mining cycle in rewards
 - [ ] app - referral stats
 - [ ] app - mining cycle status
 - [ ] automatic compounding
@@ -89,3 +88,4 @@
 - [x] stats - active miners
 - [x] count mining cycles
 - [x] restart cycle - tmu counter
+- [x] use mining cycle in rewards
