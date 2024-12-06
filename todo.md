@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] TMU mint delay
 - [ ] explain 1% better
 - [ ] app - referral stats
 - [ ] app - mining cycle status
@@ -90,3 +89,4 @@
 - [x] count mining cycles
 - [x] restart cycle - tmu counter
 - [x] use mining cycle in rewards
+- [x] TMU mint delay
