@@ -1,5 +1,6 @@
 ## TODO v1.0
 
+- [ ] explain 1% better
 - [ ] app - referral stats
 - [ ] app - mining cycle status
 - [ ] automatic compounding
@@ -13,7 +14,6 @@
 ## BACKLOG
 
 - [ ] withdrawal - comment
-- [ ] explain 1% better
 - [ ] make UI more consistent
 - [ ] better relative UI sizes
 - [ ] simple amm
