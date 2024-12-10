@@ -90,3 +90,4 @@
 - [x] restart cycle - tmu counter
 - [x] use mining cycle in rewards
 - [x] TMU mint delay
+- [x] cycle count total bug
