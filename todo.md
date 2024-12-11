@@ -1,6 +1,7 @@
 ## TODO v1.0
 
 - [ ] fix add tmu
+- [ ] disable withdraw
 - [ ] TMU - CS
 - [ ] explain 1% better
 - [ ] app - referral stats
