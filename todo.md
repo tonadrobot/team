@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] disable withdraw
 - [ ] TMU -> CS
 - [ ] explain 1% better
 - [ ] app - referral stats
@@ -96,3 +95,4 @@
 - [x] cycle count total bug
 - [x] model bug
 - [x] fix add tmu
+- [x] disable withdraw
