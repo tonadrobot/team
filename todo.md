@@ -1,5 +1,6 @@
 ## TODO v1.0
 
+- [ ] model bug
 - [ ] fix add tmu
 - [ ] explain 1% better
 - [ ] app - referral stats
