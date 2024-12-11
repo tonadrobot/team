@@ -94,5 +94,5 @@
 - [x] TMU mint delay
 - [x] cycle count total bug
 - [x] model bug
-- [x] fix add tmu
+- [x] fix add tmu (rebuilt deposit system)
 - [x] disable withdraw
