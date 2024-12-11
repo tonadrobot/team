@@ -2,7 +2,7 @@
 
 - [ ] fix add tmu
 - [ ] disable withdraw
-- [ ] TMU - CS
+- [ ] TMU -> CS
 - [ ] explain 1% better
 - [ ] app - referral stats
 - [ ] app - mining cycle status
