@@ -1,5 +1,6 @@
 ## TODO v1.0
 
+- [ ] fix add tmu
 - [ ] explain 1% better
 - [ ] app - referral stats
 - [ ] app - mining cycle status
