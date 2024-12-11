@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] fix add tmu
 - [ ] disable withdraw
 - [ ] TMU -> CS
 - [ ] explain 1% better
@@ -96,3 +95,4 @@
 - [x] TMU mint delay
 - [x] cycle count total bug
 - [x] model bug
+- [x] fix add tmu
