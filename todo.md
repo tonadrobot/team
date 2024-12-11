@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] model bug
 - [ ] fix add tmu
 - [ ] explain 1% better
 - [ ] app - referral stats
@@ -93,3 +92,4 @@
 - [x] use mining cycle in rewards
 - [x] TMU mint delay
 - [x] cycle count total bug
+- [x] model bug
