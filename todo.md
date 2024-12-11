@@ -16,6 +16,7 @@
 
 ## BACKLOG
 
+- [ ] db backup
 - [ ] withdrawal - comment
 - [ ] make UI more consistent
 - [ ] better relative UI sizes
