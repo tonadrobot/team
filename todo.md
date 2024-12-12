@@ -1,5 +1,6 @@
 ## TODO v1.0
 
+- [ ] new tmu bug
 - [ ] minimum mint
 - [ ] TMU -> CS
 - [ ] explain 1% better
