@@ -1,6 +1,5 @@
 ## TODO v1.0
 
-- [ ] new tmu bug
 - [ ] minimum mint
 - [ ] TMU -> CS
 - [ ] explain 1% better
@@ -98,3 +97,4 @@
 - [x] model bug
 - [x] fix add tmu (rebuilt deposit system)
 - [x] disable withdraw
+- [x] new tmu bug
