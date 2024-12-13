@@ -1,5 +1,9 @@
 ## TODO v1.0
 
+- [ ] frenly github
+- [ ] setup frenly bot
+- [ ] setup frenly web app
+- [ ] frenly app
 - [ ] frenly rebranding
 - [ ] TMU -> CS
 - [ ] explain 1% better
