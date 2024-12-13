@@ -99,3 +99,4 @@
 - [x] disable withdraw
 - [x] new tmu bug
 - [x] minimum mint issue
+- [x] setup @FrenlyRobot
